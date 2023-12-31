@@ -235,4 +235,4 @@ font-size: 2.5rem;
 ## OUTPUT:
 ![output](./CALCULATOR.png)
 ## Result:
-
+The program is executed successfully.
